@@ -1,2 +1,3 @@
-pub static NAME: &str = "flatpak";
+pub mod util;
 
+pub static NAME: &str = "flatpak";
